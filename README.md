@@ -1,6 +1,6 @@
 # 🌐 HTML, CSS & JavaScript Online Compiler
 
-This project is a **web-based online compiler** that allows users to write, edit, and run HTML, CSS, and JavaScript code directly in the browser. Built using only **HTML, CSS, and Vanilla JavaScript**, it provides an easy and lightweight environment for testing and experimenting with front-end code without the need for any external tools, servers, or APIs.
+This project is a **web-based online compiler** that allows users to write, edit, and run HTML, CSS, and JavaScript code directly in the browser. Built using only **HTML, CSS, and JavaScript**, it provides an easy and lightweight environment for testing and experimenting with front-end code without the need for any external tools, servers, or APIs.
 
 The compiler consists of three editor panels where users can write HTML, CSS, and JavaScript separately. A **preview section** displays the live output of the written code inside an embedded iframe. The interface also includes **Run** and **Clear** buttons for better control. The **Run button** compiles the code and displays the output, while the **Clear button** resets all editors and the preview area. In addition, the editor supports **real-time rendering**, so any change in the code is immediately reflected in the output.
 
